@@ -1,5 +1,6 @@
 # interview questions
 ==============================
+
 1.Pv and pvc in k8s 
 2.wt is use of restart policy in pod deployment
 3.We have 2 name space how to give permission specific user for  particular name space resources access?
